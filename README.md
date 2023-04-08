@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+[see](https://alexeygamovwvs.github.io/react-effector-cart)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
