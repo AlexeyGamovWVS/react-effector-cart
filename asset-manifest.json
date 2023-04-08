@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-effector-cart/static/css/main.03473984.chunk.css",
+    "main.js": "/react-effector-cart/static/js/main.f31fba01.chunk.js",
+    "main.js.map": "/react-effector-cart/static/js/main.f31fba01.chunk.js.map",
+    "runtime-main.js": "/react-effector-cart/static/js/runtime-main.fec50458.js",
+    "runtime-main.js.map": "/react-effector-cart/static/js/runtime-main.fec50458.js.map",
+    "static/js/2.773bbf16.chunk.js": "/react-effector-cart/static/js/2.773bbf16.chunk.js",
+    "static/js/2.773bbf16.chunk.js.map": "/react-effector-cart/static/js/2.773bbf16.chunk.js.map",
+    "static/js/3.058f53f8.chunk.js": "/react-effector-cart/static/js/3.058f53f8.chunk.js",
+    "static/js/3.058f53f8.chunk.js.map": "/react-effector-cart/static/js/3.058f53f8.chunk.js.map",
+    "index.html": "/react-effector-cart/index.html",
+    "static/css/main.03473984.chunk.css.map": "/react-effector-cart/static/css/main.03473984.chunk.css.map",
+    "static/js/2.773bbf16.chunk.js.LICENSE.txt": "/react-effector-cart/static/js/2.773bbf16.chunk.js.LICENSE.txt",
+    "static/media/close.5d87d919.svg": "/react-effector-cart/static/media/close.5d87d919.svg",
+    "static/media/product.module.css": "/react-effector-cart/static/media/drag.c9f2a2f6.svg",
+    "static/media/prod-1.945fea17.jpg": "/react-effector-cart/static/media/prod-1.945fea17.jpg",
+    "static/media/prod-2.9a2c7860.jpg": "/react-effector-cart/static/media/prod-2.9a2c7860.jpg",
+    "static/media/rec-1.32e8f9fe.png": "/react-effector-cart/static/media/rec-1.32e8f9fe.png",
+    "static/media/rec-2.fa91bc77.png": "/react-effector-cart/static/media/rec-2.fa91bc77.png",
+    "static/media/rec-3.389187aa.png": "/react-effector-cart/static/media/rec-3.389187aa.png",
+    "static/media/rec-4.ab2f9a76.png": "/react-effector-cart/static/media/rec-4.ab2f9a76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec50458.js",
+    "static/js/2.773bbf16.chunk.js",
+    "static/css/main.03473984.chunk.css",
+    "static/js/main.f31fba01.chunk.js"
+  ]
+}
